@@ -2,6 +2,7 @@
 #$*.' ; - =  /
 $*.'; ! - = /
 '# $ *. " - = /
+align=border=snap.location."*" = all <
 xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -35,7 +36,7 @@ xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 		<pubDate>Wed, 10 Mar 2021 02:37:59 +0000</pubDate>
 				<category><![CDATA[Old crime]]></category>
 		<category><![CDATA[Yinz]]></category>
-		<guid isPermaLink="false">https://newsinteractive.post-gazette.com/thedigs/?p=9921</guid>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9921</guid>
 
 					<description><![CDATA[By Steve Mellon/Post-Gazette William Tarr worked as a chauffeur and a salesman before landing a&#8230;]]></description>
 		
@@ -53,7 +54,7 @@ xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 		<pubDate>Wed, 03 Mar 2021 01:21:41 +0000</pubDate>
 				<category><![CDATA[People]]></category>
 		<category><![CDATA[Yinz]]></category>
-		<guid isPermaLink="false">https://newsinteractive.post-gazette.com/thedigs/?p=9877</guid>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9877</guid>
 
 					<description><![CDATA[By Steve Mellon/Post-Gazette Nothing was clear when Prince Charles of Great Britain stepped off a&#8230;]]></description>
 		
@@ -70,7 +71,7 @@ xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 		<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
 		<pubDate>Sun, 31 Jan 2021 12:00:01 +0000</pubDate>
 				<category><![CDATA[Places and landmarks]]></category>
-		<guid isPermaLink="false">https://newsinteractive.post-gazette.com/thedigs/?p=9872</guid>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9872</guid>
 
 					<description><![CDATA[Post-Gazette artists and photographers have spent months digging for historic images of Pittsburgh landmarks &#8212;&#8230;]]></description>
 		
@@ -90,7 +91,7 @@ xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 		<category><![CDATA[1950s]]></category>
 		<category><![CDATA[crime]]></category>
 		<category><![CDATA[oddities]]></category>
-		<guid isPermaLink="false">https://newsinteractive.post-gazette.com/thedigs/?p=9809</guid>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9809</guid>
 
 					<description><![CDATA[A band of escaped prisoners, some with violent pasts, once descended on a Washington County family.]]></description>
 		
@@ -107,43 +108,34 @@ xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 		<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
 		<pubDate>Thu, 19 Mar 2020 13:42:52 +0000</pubDate>
 				<category><![CDATA[Yinz]]></category>
-		<guid isPermaLink="false">https://newsinteractive.post-gazette.com/thedigs/?p=9780</guid>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9780</guid>
 
-					<description><![CDATA[Few noticed as the pandemic struck a cultural oasis not far from the city's centers of power.]]></description>
-		
-					<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2020/03/19/records-reveal-1918-influenzas-devastating-impact-on-a-tiny-pittsburgh-community/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<description><![CDATA[Few noticed as the pandemic struck a cultural oasis not far from the city's centers of power.]]></descriptio<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2020/03/19/records-reveal-1918-influenzas-devastating-impact-on-a-tiny-pittsburgh-community/feed/</wfw:commentRss>
+<slash:comments>1</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">9780</post-id>	</item>
-		<item>
-		<title>Railroad Street, Pittsburgh&#8217;s Past vs Present</title>
-		<link>https://newsinteractive.post-gazette.com/thedigs/2020/03/17/railroad-street-pittsburghs-past-vs-present/</link>
-					<comments>https://newsinteractive.post-gazette.com/thedigs/2020/03/17/railroad-street-pittsburghs-past-vs-present/#respond</comments>
+<post-id xmlns="com-wordpress:feed-additions:1">9780</post-id>	</item>
+<item>
+<title>Railroad Street, Pittsburgh&#8217;s Past vs Present</title>
+<link>https://newsinteractive.post-gazette.com/thedigs/2020/03/17/railroad-street-pittsburghs-past-vs-present/</link>
+<comments>https://newsinteractive.post-gazette.com/thedigs/2020/03/17/railroad-street-pittsburghs-past-vs-present/#respond</comments>
+<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
+<pubDate>Tue, 17 Mar 2020 04:00:32 +0000</pubDate>
+<category><![CDATA[Places and landmarks]]></category>
+<category><![CDATA[railroad street]]></category>
+<category><![CDATA[Strip District]]></catego<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9775</g<description><![CDATA[]]></description>
+<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2020/03/17/railroad-street-pittsburghs-past-vs-present/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
 		
-		<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2020 04:00:32 +0000</pubDate>
-				<category><![CDATA[Places and landmarks]]></category>
-		<category><![CDATA[railroad street]]></category>
-		<category><![CDATA[Strip District]]></category>
-		<guid isPermaLink="false">https://newsinteractive.post-gazette.com/thedigs/?p=9775</guid>
-
-					<description><![CDATA[]]></description>
-		
-					<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2020/03/17/railroad-street-pittsburghs-past-vs-present/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9775</post-id>	</item>
-		<item>
-		<title>50 years ago, the Steelers came dangerously close to not drafting Terry Bradshaw</title>
-		<link>https://newsinteractive.post-gazette.com/thedigs/2020/01/27/50-years-ago-the-steelers-came-dangerously-close-to-not-drafting-terry-bradshaw/</link>
+<post-id xmlns="com-wordpress:feed-additions:1">9775</post-id>	</it><item>
+<title>50 years ago, the Steelers came dangerously close to not drafting Terry Bradshaw</title>
+<link>https://newsinteractive.post-gazette.com/thedigs/2020/01/27/50-years-ago-the-steelers-came-dangerously-close-to-not-drafting-terry-bradshaw/</link>
 					<comments>https://newsinteractive.post-gazette.com/thedigs/2020/01/27/50-years-ago-the-steelers-came-dangerously-close-to-not-drafting-terry-bradshaw/#comments</comments>
 		
-		<dc:creator><![CDATA[Joshua Axelrod]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2020 11:00:09 +0000</pubDate>
+<dc:creator><![CDATA[Joshua Axelrod]]></dc:creator>
+<pubDate>Mon, 27 Jan 2020 11:00:09 +0000</pubDate>
 				<category><![CDATA[Sports]]></category>
-		<category><![CDATA[1970]]></category>
+<category><![CDATA[1970]]></category>
 		<category><![CDATA[Art Rooney]]></category>
 		<category><![CDATA[Bears]]></category>
 		<category><![CDATA[Bengals]]></category>
@@ -163,7 +155,7 @@ xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 		<category><![CDATA[Steelers]]></category>
 		<category><![CDATA[Super Bowls]]></category>
 		<category><![CDATA[terry Bradshaw]]></category>
-		<guid isPermaLink="false">https://newsinteractive.post-gazette.com/thedigs/?p=9751</guid>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9751</guid>
 
 					<description><![CDATA[Sorry to give you all a collective anxiety attack, Steelers fans, but you deserve to&#8230;]]></description>
 		
@@ -182,7 +174,7 @@ xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 				<category><![CDATA[Events]]></category>
 		<category><![CDATA[1920s]]></category>
 		<category><![CDATA[historic moments]]></category>
-		<guid isPermaLink="false">https://newsinteractive.post-gazette.com/thedigs/?p=9738</guid>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9738</guid>
 
 					<description><![CDATA[Those who partied on the eve of Prohibition were the non-drinkers.]]></description>
 		
@@ -199,7 +191,7 @@ xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 		<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
 		<pubDate>Tue, 14 Jan 2020 01:10:55 +0000</pubDate>
 				<category><![CDATA[Yinz]]></category>
-		<guid isPermaLink="false">https://newsinteractive.post-gazette.com/thedigs/?p=9691</guid>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9691</guid>
 
 					<description><![CDATA[John J. Verona was "boss" of the Hill; his funeral was unlike any other in the district.]]></description>
 		
@@ -219,7 +211,7 @@ xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 		<category><![CDATA[Pittsburgh n'at]]></category>
 		<category><![CDATA[1950s]]></category>
 		<category><![CDATA[vintage crime]]></category>
-		<guid isPermaLink="false">https://newsinteractive.post-gazette.com/thedigs/?p=9664</guid>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9664</guid>
 
 					<description><![CDATA["I smacked him good," Rose Palermo said.]]></description>
 		
