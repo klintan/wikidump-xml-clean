@@ -1,0 +1,265 @@
+'#$ *. ' ; - =/
+#$*.' ; - =  /
+$*.'; ! - = /
+'# $ *. " - = /
+align=border=snap.location."*" = all <
+'# $ *. " ; ! - = /# $ = *"*"'
+<xml version="1.0" 
+encoding="UTF-8"
+><rss 
+version="2.0"
+	:
+	"http://purl.org/rss/1.0/modules/content/"
+	:
+	="http://wellformedweb.org/CommentAPI/"
+	:
+	="http://purl.org/dc/elements/1.1/"
+	:
+	="http://www.w3.org/2005/Atom"
+	:
+	="http://purl.org/rss/1.0/modules/syndication/"
+	:
+	="http://purl.org/rss/1.0/modules/slash/"
+	
+	:
+	="http://www.georss.org/georss"
+	:
+	="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Old Pittsburgh photos and stories | The Digs</title>
+	<atom:link href
+
+<="https://newsinteractive.post-gazette.com/thedigs/feed/" rel="self" <type="application/rss+xml" />
+	<link>https://newsinteractive.post-gazette.com/thedigs</link>
+	<description></description>
+	<lastBuildDate>Wed, 10 Mar 2021 02:55:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	
+	</sy:updatePeriod>
+	<sy:updateFrequency>
+	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+<site xmlns
+
+<="com-wordpress:feed-additions:1">80752127</site>	<item>
+		<title>The nation&#8217;s first armored car robbery took place here in 1927</title>
+		<link>https://newsinteractive.post-gazette.com/thedigs/2021/03/09/the-nations-first-armored-car-robbery-took-place-here-in-1927/</link>
+					<comments>https://newsinteractive.post-gazette.com/thedigs/2021/03/09/the-nations-first-armored-car-robbery-took-place-here-in-1927/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
+		<pubDate>Wed, 10 Mar 2021 02:37:59 +0000</pubDate>
+				<category><![CDATA[Old crime]]></category>
+		<category><![CDATA[Yinz]]></category>
+		<guid isPermaLink
+
+<="true">https://newsinteractive.post-gazette.com/thedigs/?p=9921</guid>
+
+					<description><![CDATA[By Steve Mellon/Post-Gazette William Tarr worked as a chauffeur and a salesman before landing a&#8230;]]></description>
+		
+					<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2021/03/09/the-nations-first-armored-car-robbery-took-place-here-in-1927/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns
+
+<="com-wordpress:feed-additions:1">9921</post-id>	</item>
+		<item>
+		<title>The day a prince visited the Mon Valley</title>
+		<link>https://newsinteractive.post-gazette.com/thedigs/2021/03/02/the-day-a-prince-visited-the-mon-valley/</link>
+					<comments>https://newsinteractive.post-gazette.com/thedigs/2021/03/02/the-day-a-prince-visited-the-mon-valley/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
+		<pubDate>Wed, 03 Mar 2021 01:21:41 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<category><![CDATA[Yinz]]></category>
+		<guid isPermaLink
+
+<="true">https://newsinteractive.post-gazette.com/thedigs/?p=9877</guid>
+
+					<description><![CDATA[By Steve Mellon/Post-Gazette Nothing was clear when Prince Charles of Great Britain stepped off a&#8230;]]></description>
+		
+					<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2021/03/02/the-day-a-prince-visited-the-mon-valley/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns
+
+<="com-wordpress:feed-additions:1">9877</post-id>	</item>
+		<item>
+		<title>Historical Panoramics</title>
+		<link>https://newsinteractive.post-gazette.com/thedigs/2021/01/31/historical-panoramics/</link>
+					<comments>https://newsinteractive.post-gazette.com/thedigs/2021/01/31/historical-panoramics/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
+		<pubDate>Sun, 31 Jan 2021 12:00:01 +0000</pubDate>
+				<category><![CDATA[Places and landmarks]]></category>
+		<guid isPermaLink
+
+<="true">https://newsinteractive.post-gazette.com/thedigs/?p=9872</guid>
+
+					<description><![CDATA[Post-Gazette artists and photographers have spent months digging for historic images of Pittsburgh landmarks &#8212;&#8230;]]></description>
+		
+					<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2021/01/31/historical-panoramics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns
+
+<="com-wordpress:feed-additions:1">9872</post-id>	</item>
+		<item>
+		<title>Memories of a strange confinement</title>
+		<link>https://newsinteractive.post-gazette.com/thedigs/2020/04/30/memories-of-a-strange-confinement/</link>
+					<comments>https://newsinteractive.post-gazette.com/thedigs/2020/04/30/memories-of-a-strange-confinement/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2020 13:06:01 +0000</pubDate>
+				<category><![CDATA[Yinz]]></category>
+		<category><![CDATA[1950s]]></category>
+		<category><![CDATA[crime]]></category>
+		<category><![CDATA[oddities]]></category>
+		<guid isPermaLink
+
+<="true">https://newsinteractive.post-gazette.com/thedigs/?p=9809</guid>
+
+					<description><![CDATA[A band of escaped prisoners, some with violent pasts, once descended on a Washington County family.]]></description>
+		
+					<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2020/04/30/memories-of-a-strange-confinement/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns
+
+<="com-wordpress:feed-additions:1">9809</post-id>	</item>
+		<item>
+		<title>Records reveal 1918 influenza&#8217;s devastating impact on a tiny Pittsburgh community</title>
+		<link>https://newsinteractive.post-gazette.com/thedigs/2020/03/19/records-reveal-1918-influenzas-devastating-impact-on-a-tiny-pittsburgh-community/</link>
+					<comments>https://newsinteractive.post-gazette.com/thedigs/2020/03/19/records-reveal-1918-influenzas-devastating-impact-on-a-tiny-pittsburgh-community/#comments</comments>
+		
+		<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2020 13:42:52 +0000</pubDate>
+				<category><![CDATA[Yinz]]></category>
+		<guid isPermaLink
+
+<="true">https://newsinteractive.post-gazette.com/thedigs/?p=9780</guid>
+
+					<description><![CDATA[Few noticed as the pandemic struck a cultural oasis not far from the city's centers of power.]]></descriptio<wfw:commentRss>
+                    *'
+'<https://newsinteractive.post-gazette.com/thedigs/2020/03/19/records-reveal-1918-influenzas-devastating-impact-on-a-tiny-pittsburgh-community/feed/</wfw:commentRss>
+'<slash:comments>1</slash:comments>
+		
+		
+<post-id xmlns
+
+<="com-wordpress:feed-additions:1">9780</post-id>	</item>
+<item>
+<title>Railroad Street, Pittsburgh&#8217;s Past vs Present</title>
+<link>https://newsinteractive.post-gazette.com/thedigs/2020/03/17/railroad-street-pittsburghs-past-vs-present/</link>
+<comments>https://newsinteractive.post-gazette.com/thedigs/2020/03/17/railroad-street-pittsburghs-past-vs-present/#respond</comments>
+<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
+<pubDate>Tue, 17 Mar 2020 04:00:32 +0000</pubDate>
+<category><![CDATA[Places and landmarks]]></category>
+<category><![CDATA[railroad street]]></category>
+<category><![CDATA[Strip District]]></catego<guid isPermaLink
+
+="true">https://newsinteractive.post-gazette.com/thedigs/?p=9775</g<description><![CDATA[]]></description>
+<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2020/03/17/railroad-street-pittsburghs-past-vs-present/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+		
+<post-id xmlns="com-wordpress:feed-additions:1">9775</post-id>	</it><item>
+<title>50 years ago, the Steelers came dangerously close to not drafting Terry Bradshaw</title>
+<link>https://newsinteractive.post-gazette.com/thedigs/2020/01/27/50-years-ago-the-steelers-came-dangerously-close-to-not-drafting-terry-bradshaw/</link>
+					<comments>https://newsinteractive.post-gazette.com/thedigs/2020/01/27/50-years-ago-the-steelers-came-dangerously-close-to-not-drafting-terry-bradshaw/#comments</comments>
+		
+<dc:creator><![CDATA[Joshua Axelrod]]></dc:creator>
+<pubDate>Mon, 27 Jan 2020 11:00:09 +0000</pubDate>
+				<category><![CDATA[Sports]]></category>
+<category><![CDATA[1970]]></category>
+		<category><![CDATA[Art Rooney]]></category>
+		<category><![CDATA[Bears]]></category>
+		<category><![CDATA[Bengals]]></category>
+		<category><![CDATA[Cardinals]]></category>
+		<category><![CDATA[Chicago Bears]]></category>
+		<category><![CDATA[Chuck Noll]]></category>
+		<category><![CDATA[Dan Rooney]]></category>
+		<category><![CDATA[Jack Sell]]></category>
+		<category><![CDATA[Mel Blount]]></category>
+		<category><![CDATA[NFL Draft]]></category>
+		<category><![CDATA[Pat Livingston]]></category>
+		<category><![CDATA[Phil Musick]]></category>
+		<category><![CDATA[Pittsburgh Post-Gazette]]></category>
+		<category><![CDATA[pittsburgh press]]></category>
+		<category><![CDATA[Roy McHugh]]></category>
+		<category><![CDATA[sports]]></category>
+		<category><![CDATA[Steelers]]></category>
+		<category><![CDATA[Super Bowls]]></category>
+		<category><![CDATA[terry Bradshaw]]></category>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9751</guid>
+
+					<description><![CDATA[Sorry to give you all a collective anxiety attack, Steelers fans, but you deserve to&#8230;]]></description>
+		
+					<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2020/01/27/50-years-ago-the-steelers-came-dangerously-close-to-not-drafting-terry-bradshaw/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9751</post-id>	</item>
+		<item>
+		<title>One hundred years ago, &#8216;dry January&#8217; was the law</title>
+		<link>https://newsinteractive.post-gazette.com/thedigs/2020/01/16/one-hundred-years-ago-dry-january-was-the-law/</link>
+					<comments>https://newsinteractive.post-gazette.com/thedigs/2020/01/16/one-hundred-years-ago-dry-january-was-the-law/#respond</comments>
+		
+		<dc:creator><![CDATA[Bob Batz Jr.]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2020 12:45:20 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[1920s]]></category>
+		<category><![CDATA[historic moments]]></category>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9738</guid>
+
+					<description><![CDATA[Those who partied on the eve of Prohibition were the non-drinkers.]]></description>
+		
+					<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2020/01/16/one-hundred-years-ago-dry-january-was-the-law/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9738</post-id>	</item>
+		<item>
+		<title>The life and death of Pittsburgh&#8217;s political brawler</title>
+		<link>https://newsinteractive.post-gazette.com/thedigs/2020/01/13/9691/</link>
+					<comments>https://newsinteractive.post-gazette.com/thedigs/2020/01/13/9691/#comments</comments>
+		
+		<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2020 01:10:55 +0000</pubDate>
+				<category><![CDATA[Yinz]]></category>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9691</guid>
+
+					<description><![CDATA[John J. Verona was "boss" of the Hill; his funeral was unlike any other in the district.]]></description>
+		
+					<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2020/01/13/9691/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9691</post-id>	</item>
+		<item>
+		<title>The day a 60-year-old woman tussled with a robber</title>
+		<link>https://newsinteractive.post-gazette.com/thedigs/2020/01/07/the-day-a-60-year-old-woman-tussled-with-a-robber/</link>
+					<comments>https://newsinteractive.post-gazette.com/thedigs/2020/01/07/the-day-a-60-year-old-woman-tussled-with-a-robber/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve Mellon]]></dc:creator>
+		<pubDate>Tue, 07 Jan 2020 18:53:33 +0000</pubDate>
+				<category><![CDATA[Old crime]]></category>
+		<category><![CDATA[Pittsburgh n'at]]></category>
+		<category><![CDATA[1950s]]></category>
+		<category><![CDATA[vintage crime]]></category>
+		<guid isPermaLink="true">https://newsinteractive.post-gazette.com/thedigs/?p=9664</guid>
+
+					<description><![CDATA["I smacked him good," Rose Palermo said.]]></description>
+		
+					<wfw:commentRss>https://newsinteractive.post-gazette.com/thedigs/2020/01/07/the-day-a-60-year-old-woman-tussled-with-a-robber/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9664</post-id>	</item>
+	</channel>
+</rss>
